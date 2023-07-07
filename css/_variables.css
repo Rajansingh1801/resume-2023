@@ -1,0 +1,50 @@
+:root {
+  --r-w: 210mm;
+  --r-h: 297mm;
+  --r-p: 12mm;
+
+  --r-clr-prim: #0e8388;
+  --r-clr-prim-l: #cbe4de;
+  --r-clr-prim-d: #2e4f4f;
+
+  --r-clr-sec: #2e4f4f;
+
+  --r-clr-dark: #2c3333;
+  --r-clr-light: #cbe4de;
+
+  --r-clr-black: #24222c;
+  --r-clr-white: #fff;
+
+  --r-b-clr-d: #0001;
+  --r-b-clr-l: #fff1;
+
+  --r-ff-ss: 'Noto Sans', sans-serif;
+  --r-ff-d: 'Raleway', cursive;
+
+  --r-fw-n: 400;
+  --r-fw-m: 500;
+  --r-fw-b: 700;
+
+  --r-fsz-_25: 0.25rem;
+  --r-fsz-_5: 0.5rem;
+  --r-fsz-_75: 0.75rem;
+  --r-fsz-1: 1rem;
+  --r-fsz-2: 1.25rem;
+  --r-fsz-3: 1.75rem;
+  --r-fsz-4: 2.5rem;
+  --r-fsz-5: 3.5rem;
+
+  --r-sp-1: 0.25rem;
+  --r-sp-2: 0.5rem;
+  --r-sp-3: 1rem;
+  --r-sp-4: 2rem;
+  --r-sp-5: 3rem;
+
+  --r-bw-1: 0.25mm;
+  --r-bw-2: 0.5mm;
+  --r-bw-3: 1mm;
+  --r-bw-4: 2mm;
+  --r-bw-5: 3mm;
+
+  font-size: 3.05mm;
+}

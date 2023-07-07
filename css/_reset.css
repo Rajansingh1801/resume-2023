@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  color: inherit;
+  font: inherit;
+}
+
+body {
+  color: var(--r-clr-black);
+  font-family: var(--r-ff-ss);
+}
+
+a {
+  text-decoration: none;
+}
+
+b {
+  font-weight: var(--r-fw-m);
+}
+strong {
+  font-weight: var(--r-fw-b);
+}
+em {
+  font-style: italic;
+}
+u {
+  text-decoration: underline;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+svg {
+  width: 1.25em;
+  height: 1.25em;
+}
+
+li {
+  margin-left: 2em;
+}
